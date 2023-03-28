@@ -37,7 +37,7 @@ const auto =
 {
     nome: "Nuova Fiat 500",
     prezzo: "da 29.950€",
-
+    autoimg: 'imgauto/500.avif',
     tipo: "fiat",
     des: "Scegli la tua autonomia: grazie a due diversi tipi di batteria potrai svolgere i tuoi spostamenti quotidiani"
 },
@@ -45,7 +45,7 @@ const auto =
 {
     nome: "Fiat Panda",
     prezzo: "da 15.600€",
-
+    autoimg: 'imgauto/panda.jpeg',
     tipo: "fiat",
     des: "Sempre un classico: per un approccio più rispettoso alla mobilità la gamma motori di Fiat Panda annovera l'Hybrid 1.0 GSE 70CV, il 1.2 GPL 69CV. Scegli l’alimentazione e divertiti con la tua Nuova Panda"
 },
@@ -53,7 +53,7 @@ const auto =
 {
     nome: "E-Ulysse Lounge",
     prezzo: "da 40.600€",
-
+    autoimg: 'imgauto/uly.webp',
     tipo: "fiat",
     des: "Un salotto a 4 ruote: sedili anteriori a regolazione elettrica, riscaldati e massaggianti, tetto in vetro panoramico"
 },
@@ -61,7 +61,7 @@ const auto =
 {
     nome: "Fiat Tipo",
     prezzo: "da 21.500€",
-
+    autoimg: 'imgauto/tipo.jpg',
     tipo: "fiat",
     des: "Più sicurezza: i sistemi di guida autonoma ADAS ti permettono di guidare al massimo della sicurezza, godendoti al meglio ogni secondo a bordo"
 },
@@ -69,7 +69,7 @@ const auto =
 {
     nome: "Avenger",
     prezzo: "da 24.400,00€",
-
+    autoimg: 'imgauto/ave.webp',
     tipo: "jeep",
     des: "Ti cattura: l’estetica traduce la personalità di questa nuova Jeep: i profili della griglia a sette feritoie, il tetto nero a contrasto che sottolinea la sua presenza e i fari full-LED anteriori e posteriori rendono Avenger un'auto riconoscibile al primo sguardo"
 },
@@ -77,7 +77,7 @@ const auto =
 {
     nome: "Renegade Limited",
     prezzo: "da 41.700€",
-
+    autoimg: 'imgauto/ren.jpg',
     tipo: "jeep",
     des: "La nuova frontiera del piacere di guida: l’allestimento Limited è dotato dei sistemi di guida quali Forward collision warning Plus e Adaptive cruise control, e dotazioni di stile come il volante in pelle e i cerchi in lega da 17’’"
 },
@@ -85,7 +85,7 @@ const auto =
 {
     nome: "Compass Upland Cross",
     prezzo: "da 48.750€",
-
+    autoimg: 'imgauto/compass.jpg',
     tipo: "jeep",
     des: "Una nuova definizione di avventura: preparati a diventare un esploratore con Jeep Compass Upland Cross, una serie speciale progettata per farti compagnia in tutte le tue avventure fuori città"
 },
@@ -93,7 +93,7 @@ const auto =
 {
     nome: "Wrangler 4xe Sahara",
     prezzo: "da 85.000,00€",
-
+    autoimg: 'imgauto/wrang.webp',
     tipo: "jeep",
     des: "L'icona si evolve: un altro livello di esperienza, grazie a Performance sensazionali e sicurezza su strada senza paragoni"
 },
@@ -101,7 +101,7 @@ const auto =
 {
     nome: "C40 Recharge",
     prezzo: "da 53.800,00€",
-
+    autoimg: 'imgauto/c40.webp',
     tipo: "volvo",
     des: "Un cuore puro in un corpo intrepido: più di quello che desideri, immergiti nelle funzioni smart e nella tecnologia avanzata"
 },
@@ -109,7 +109,7 @@ const auto =
 {
     nome: "S90 Recharge",
     prezzo: "da 78.300,00€",
-
+    autoimg: 'imgauto/s90.jpg',
     tipo: "volvo",
     des: "Aumenta le aspettative: apriti alle novità e tieni sotto controllo ogni chilometro del tuo viaggio; è la nostra berlina Plug-in Hybrid di lusso con Google integrato"
 },
@@ -117,7 +117,7 @@ const auto =
 {
     nome: "Model S",
     prezzo: "da 104.990€",
-
+    autoimg: 'imgauto/models.jpg',
     tipo: "tesla",
     des: "L'accelerazione più rapida rispetto a qualsiasi altro veicolo in produzione: l'architettura aggiornata della batteria per tutti gli allestimenti della Model S consente scatti fulminei consecutivi senza degrado delle prestazioni"
 },
@@ -125,7 +125,7 @@ const auto =
 {
     nome: "Model Y",
     prezzo: "da 46.990€",
-
+    autoimg: 'imgauto/modely.jpeg',
     tipo: "tesla",
     des: "Progettata per la sicurezza: ha ottenuto 5 stelle nella valutazione di sicurezza Euro NCAP del 2022 e ha vinto il premio di miglior veicolo nella categoria dei fuoristrada di piccole dimensioni"
 },
@@ -133,7 +133,7 @@ const auto =
 {
     nome: "Aventador",
     prezzo: "da 430.730€",
-
+    autoimg: 'imgauto/av.webp',
     tipo: "lamborghini",
     des: "Futuro e performance: progettata per andare oltre il concetto stesso di performance"
 },
@@ -141,7 +141,7 @@ const auto =
 {
     nome: "Huracàn",
     prezzo: "da 198.972€",
-
+    autoimg: 'imgauto/hur.jpg',
     tipo: "lamborghini",
     des: "il compromesso ideale tra tecnologia e design: linee nette, aerodinamiche, progettate per fendere l'aria e domare la strada."
 }
